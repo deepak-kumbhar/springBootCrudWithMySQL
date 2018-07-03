@@ -1,2 +1,2 @@
-# springBootCrudWithMySQL
-This is the spring boot CRUD example using MySQL
+# SpringBoot CRUD operations using MySQL.
+In this Project you will find the SpringBoot CRUD operations using MySQL.
